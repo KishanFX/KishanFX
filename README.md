@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KishanFX
+- 👋 Hi, I’m @KishanFX (Kishan Yadav)
 - 👀 I’m interested in front-web devlopment.
 - 🌱 I’m currently learning back-end and database.
 - 💞️ I’m looking to collaborate on any project related to web application.
