@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kishan Yadav</h1>
 <h3 align="center">frontend web developer from India</h3>
 
-- 🌱 I’m currently learning **Laravel, React.js.**
+- 🌱 I’m currently learning **Laravel, React.js and veu.js .**
 
 - 💬 Ask me about **css and front-end web**
 
